@@ -1,4 +1,4 @@
-## Not maintained anymore as I moved to niri
+## ⚠️ Not maintained anymore as I moved to niri
 
 # Dotfiles for Hyprland on Arch Linux
 
