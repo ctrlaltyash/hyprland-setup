@@ -1,4 +1,4 @@
-# hyprland-setup for beginner
+# <h1>Hyprland-Setup for Beginner</h1>
 > A beginner-friendly Hyprland rice for EndeavourOS/ Arch — functional out of the box, with room to explore.
 
 This is a heavily customized fork of [Maciejonos/dotfiles](https://github.com/Maciejonos/dotfiles) by **Maciej** ([@Maciejonos](https://github.com/Maciejonos)), with contributions from **chadclancy** and **Eric Yu** ([@yu-eric](https://github.com/yu-eric)). Full credit to them for the foundation — I made it more beginner-friendly and added some quality-of-life tweaks.
