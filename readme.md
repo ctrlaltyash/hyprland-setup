@@ -83,3 +83,6 @@ Then follow the setup instructions from the [original repo](https://github.com/M
 ## License
 
 MIT — do whatever you want, just keep the credits 🙂
+
+
+<h3> Maintained by Kalepu Yashvardhan; Please feel free to reach out :) </h3>
