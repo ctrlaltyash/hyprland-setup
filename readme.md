@@ -64,7 +64,7 @@ sudo systemctl enable --now NetworkManager
 git clone https://github.com/ctrlaltyash/hyprland-setup.git ~/.local/share/dotfiles
 ```
 
-Then follow the setup instructions from the [original repo](https://github.com/Maciejonos/dotfiles).
+<h2>Then follow the setup instructions from the [original repo](https://github.com/Maciejonos/dotfiles). </h2>
 
 ---
 
