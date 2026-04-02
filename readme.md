@@ -5,11 +5,11 @@ This is a heavily customized fork of [Maciejonos/dotfiles](https://github.com/Ma
 
 ---
 
-<img width="1920" height="1200" alt="2026-04-02_18-16-23" src="https://github.com/user-attachments/assets/f7d0a15c-fa39-4fc6-9377-b4ac767fc10e" />
 <img width="1920" height="1200" alt="2026-04-02_18-15-51" src="https://github.com/user-attachments/assets/149522b5-9968-4a42-aeb2-8d28a6ad9004" />
 <img width="1920" height="1200" alt="2026-04-02_18-13-44" src="https://github.com/user-attachments/assets/5716f63d-c984-4719-9ca6-c8046ce3c715" />
 <img width="1920" height="1199" alt="2026-04-02_18-13-01" src="https://github.com/user-attachments/assets/69c242ef-e6ef-49dd-bb3a-6357e2f6e672" />
 <img width="1920" height="1200" alt="2026-04-02_18-11-55" src="https://github.com/user-attachments/assets/62e1bd8f-7a3c-4a7a-b2df-b80db26f0ef8" />
+<img width="1920" height="1200" alt="2026-04-02_18-16-23" src="https://github.com/user-attachments/assets/f7d0a15c-fa39-4fc6-9377-b4ac767fc10e" />
 
 
 
